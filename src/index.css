@@ -1,0 +1,54 @@
+.title{
+    font-size: large;
+    animation-name : moveRight;
+    animation-duration :0.7s;
+
+}
+.title2{
+    font-size: large;
+
+    animation-name : moveRight;
+    animation-duration :0.7s;
+
+}
+.title3{
+    font-size: large;
+
+    animation-name : moveRight;
+    animation-duration :0.7s;
+
+}
+.title-rg{
+    color: aliceblue;
+}
+
+.texts{
+    color: azure;
+    font-weight: 100;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+progress .skills .progress-bar{
+ background-color: inset #e9ecef;    
+}
+
+.progress{
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: 0.75rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+@keyframes animate {
+    from{
+        width: 0;
+    }        
+}
+
+.list{
+    font-size: small;
+    color: cornflowerblue;
+}
